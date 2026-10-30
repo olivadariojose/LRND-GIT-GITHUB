@@ -52,3 +52,12 @@ git diff
 Agregar todo al staging
 
 git add .
+
+
+Ver el log de commits
+
+git log
+
+
+Ver el log sencillo
+git log --oneline
