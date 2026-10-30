@@ -18,7 +18,7 @@ git --version
 
 
 
-Verificar si tu aplicación ya tiene Git
+Ver el estado del repositorio local
 
 git status
 
@@ -61,3 +61,14 @@ git log
 
 Ver el log sencillo
 git log --oneline
+
+
+RAMAS
+
+Ver ramas
+
+git branch
+
+
+Ver rama actual
+git branch --show-current
