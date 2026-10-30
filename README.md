@@ -30,3 +30,25 @@ Zonas de git
 
 
 ![alt text](image.png)
+
+
+El archivo .gitignore
+
+Hay que validar que se tiene el archivo .gitignore para que no se suba nada adicional al repositorio
+
+
+
+Conocer el estado del proyecto
+
+git status
+
+
+Archivos que han cambiado
+
+git diff
+
+
+
+Agregar todo al staging
+
+git add .
